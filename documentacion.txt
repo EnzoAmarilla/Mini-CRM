@@ -1,5 +1,7 @@
 Pasos a seguir y comandos a utilizar:
 
+github: https://github.com/EnzoAmarilla/Mini-CRM
+
 - git clone https://github.com/EnzoAmarilla/Mini-CRM.git
 - Correr el comando "composer install"
 - Agregar archivo .env
