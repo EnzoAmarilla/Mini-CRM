@@ -1,0 +1,9 @@
+Pasos a seguir y comandos a utilizar:
+
+- git clone https://github.com/EnzoAmarilla/Mini-CRM.git
+- Correr el comando "composer install"
+- Agregar archivo .env
+- Crear base de datos llamada: "Mini-CRM" (colocar este nombre en el .env en la configuracion de DATABASE)
+- Correr el comando "php artisan migrate --seed" una vez que tenemos el .env configurado y la base de datos creada con este nombre
+- Correr comando "php artisan storage:link"
+- Ya esta todo listo para poder realizar pruebas sobre el proyecto Mini-CRM.
